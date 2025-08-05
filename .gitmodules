@@ -1,0 +1,3 @@
+[submodule "autoavalicao-api"]
+	path = autoavalicao-api
+	url = https://github.com/DaniDMoura/autoavalicao-api
